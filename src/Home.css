@@ -1,0 +1,11 @@
+.App {
+  background-color: greenyellow;
+}
+.usernamebar {
+  width: 50%;
+}
+h1 {
+  padding-bottom: 5%;
+  color: darkblue;
+  font-family: "Times New Roman", Times, serif;
+}
